@@ -1,5 +1,7 @@
 # workflow-xcode-plugin
 
+介绍文章：[http://devlong.com/2016/05/25/create-xcode-plugin-in-three-minutes/](http://devlong.com/2016/05/25/create-xcode-plugin-in-three-minutes/)
+
 ![screenshot.gif](https://raw.githubusercontent.com/MellongLau/workflow-xcode-plugin/master/screenshot.gif)
 
 ## More
